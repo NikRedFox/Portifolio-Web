@@ -43,6 +43,7 @@ main{
     flex-direction: column;
     padding: 0px 158px 0px 109px;
     gap: 300px;
+    margin-bottom: 250px;
 }
 
 main p{
@@ -85,3 +86,38 @@ main button{
     margin-left: 650px;
 }
 /* Main*/
+
+/* Portifolio */
+.portifolio-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 70px;
+}
+
+.portifolio-container h2{
+    font-family: 'Playfair Display';
+    font-size: 81px;
+    font-weight: 500;
+}
+
+.quadro-container{
+    display: flex;
+    justify-content: center;
+    gap: 74px;
+}
+.quadro-column-left{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 3fr;
+    gap: 77px;
+}
+
+.quadro-column-right{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 3fr;
+    gap: 77px;
+}
+
+/* Portifolio */
