@@ -152,3 +152,115 @@ main button{
 }
 /* About */
 
+/* Testimonials */
+.testimonials-cards-container{
+    display: flex;
+    gap: 54px;
+}
+
+.testimonials-container{
+    display: flex;
+    flex-direction: column;
+    /* padding: 342px 179px 368px 179px; */
+    gap: 100px;
+}
+
+.testimonials-container p{
+    width: 750px;
+}
+
+.testimonials-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+}
+
+.testimonials-text h2{
+    font-family: 'Playfair Display';
+    font-size: 81px;
+    font-weight: 500;
+}
+
+.testimonials-text p{
+    font-size: 15px;
+    text-align: center;
+}
+
+.testimonials-cards-horizontal{
+    display: flex;
+    flex-direction: column;
+    gap: 55px;
+}
+
+.testimonial-card-H{
+    display: flex;
+}
+
+.card-text-H{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 10px 5px 10px 20px; 
+    background-color: #181818;   
+    height: 310px;
+}
+
+.card-text-H h3{
+    font-size: 38px;
+}
+
+.card-text-H p{
+    font-size: 15px;
+    width: 290px;
+}
+
+.card-text-H button{
+    width: 150px;
+    height: 21px;
+    background-color: transparent;
+    color: white;
+    text-align: left;
+    font-size: 16px;
+    /* margin-top: 20px; */
+    cursor: pointer;
+}
+
+.card-text-H img{
+    width: 10%;
+    align-items: center;
+}
+
+.card-text-V{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    width: 362px;
+    height: 327px;
+    background-color: #181818;
+    gap: 20px;
+    padding: 21px 29px 34px 7px;
+}
+
+.card-text-V h3{
+    font-size: 38px;
+    width: 250px;
+}
+
+.card-text-V p{
+    font-size: 15px;
+    width: 220px;
+}
+
+.card-text-V button{
+    width: 150px;
+    height: 21px;
+    background-color: transparent;
+    color: white;
+    text-align: left;
+    font-size: 16px;
+    /* margin-top: 20px; */
+    cursor: pointer;
+}
+/* Testimonials */
+
