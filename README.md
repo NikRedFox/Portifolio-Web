@@ -39,7 +39,7 @@ Esse portifólio é um site que desenvolvi a partir de um template no Figma, par
 <!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
 
-![Web1](https://github.com/NikRedFox/Financen/blob/main/src/assets/images/Financen-thumbnail.png)
+![Web1](https://github.com/NikRedFox/Portifolio-Web/blob/main/src/assets/images/Portifolio-thumbnail.png)
 
 ---
 
